@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\47998\source\repos\assimp-test\assimp-test\camera.h(8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(155): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(187): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(188): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(195): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\47998\source\repos\assimp-test\assimp-test\source.cpp(196): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  assimp-test.vcxproj -> C:\Users\47998\source\repos\assimp-test\Debug\assimp-test.exe
+  assimp-test.vcxproj -> C:\Users\47998\source\repos\assimp-test\Debug\assimp-test.pdb (Partial PDB)
